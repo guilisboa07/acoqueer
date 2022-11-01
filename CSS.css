@@ -67,7 +67,10 @@ background: linear-gradient(to top, #413089, #894F9A);
 .Contato{
 background: linear-gradient(to top, #413089, #894F9A);
   margin-bottom: 0px;
-  size: 200px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;    
 }
 
 .mensagem{
